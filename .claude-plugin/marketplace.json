@@ -13,7 +13,7 @@
         "name": "Adam Haymond",
         "email": "adam@nodespy.com"
       },
-      "source": "../plugins/go-code-simplifier",
+      "source": "./plugins/go-code-simplifier",
       "category": "productivity",
       "homepage": "https://github.com/NodeSpy/claude-plugins/tree/master/plugins/go-code-simplifier"
     }
