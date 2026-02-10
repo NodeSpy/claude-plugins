@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-plugins-unofficial",
+  "description": "Directory of popular Claude Code extensions including development tools, productivity plugins, and MCP integrations",
+  "owner": {
+    "name": "NodeSpy",
+    "email": "support@nodespy.com"
+  },
+  "plugins": [
+    {
+      "name": "go-code-simplifier",
+      "description": "Agent that simplifies and refines Go code for clarity, consistency, and maintainability while preserving functionality. Focuses on recently modified code, or exising code.",
+      "author": {
+        "name": "Adam Haymond",
+        "email": "adam@nodespy.com"
+      },
+      "source": "./plugins/go-code-simplifier",
+      "category": "productivity",
+      "homepage": "https://github.com/nodespy/claude-plugins-unofficial/tree/main/plugins/code-simplifier"
+    }
+  ]
+}

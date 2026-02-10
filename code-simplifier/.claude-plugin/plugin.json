@@ -1,0 +1,9 @@
+{
+   "name": "go-code-simplifier",
+   "version": "0.1.0",
+   "description": "An agent that simplifies and refines Go code for consistency, clarity, and maintainability while preserving functionality",
+   "author": {
+     "name": "Adam Haymond",
+     "email": "odeeodum@icloud.com"
+   }
+}
